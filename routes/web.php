@@ -17,7 +17,10 @@ Route::get('/', function () {
     return view('welcome to my app ');
 });
 
-route::get('rejester',function()'){
+Route::get('rejester',function()'){
     dd ,('rejester');
 });
 
+Route::get('payment ',function()'){
+    dd ,('payment');
+});
