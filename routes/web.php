@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome to my app ');
+    return view('welcome to my app this the best application');
 });
 
 Route::get('rejester',function()'){
