@@ -24,3 +24,7 @@ Route::get('rejester',function()'){
 Route::get('payment ',function()'){
     dd ,('payment');
 });
+
+function (){
+    
+}
